@@ -52,3 +52,7 @@ Then, find the mean quality rating of each group.</br>
 
 ## Q5: Do sweeter wines (more residual sugar) receive better ratings?
 Similarly, I used the median to split the samples into two groups by residual sugar and find the mean quality rating of each group.
+
+## Q6: What level of acidity receives the highest average rating?
+For this question i will simply create a bar chart with a bar for each of the acidity levels.
+
